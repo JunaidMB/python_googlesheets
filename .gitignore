@@ -1,4 +1,5 @@
 .vscode
+.DS_Store
 real_credentials.json
 /data/full_data.csv
 /data/day4_data.csv
