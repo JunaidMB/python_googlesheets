@@ -12,7 +12,7 @@ The Setup procedure is:
 
 1. Create a service account and OAuth2 credentials from Google API Console.
 2. Create JSON Credentials for the service account and save into the Python project - save this as `credentials.json`. 
-3. Enable Google Sheets APU from the Google API console.
+3. Enable Google Sheets API from the Google API console.
 4. Make a Google Sheet and give access to the service email account in order to allow Python to connect to and edit the Google Sheet.
 
 ## Useful Links
