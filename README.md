@@ -17,7 +17,7 @@ The Setup procedure is:
 
 ## Useful Links
 
-1. Account setup and hello world example: https://erikrood.com/Posts/py_gsheets.html
+1. Service Account setup and hello world example: https://erikrood.com/Posts/py_gsheets.html
 
 2. Pysheets package documentation: https://github.com/nithinmurali/pygsheets
 
